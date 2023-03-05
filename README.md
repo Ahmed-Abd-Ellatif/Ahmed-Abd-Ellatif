@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Ellatif</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img width:"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cn3Oi3LWIPfZZlxzoa95bI-gRgSm8Gbkzg&usqp=CAU" >
+<img width:"100%" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-abd-ellatif&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-abd-ellatif" /> </p>
 
