@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://ahmed-abdel-latif.web.app/
 
-- 💬 Ask me about **React, Angular,Javascript**
+- 💬 Ask me about **Angular,Javascript**
 
 - 📫 How to reach me **ahmedmahmoudfci@gmail.com**
 
