@@ -1,4 +1,4 @@
-<h1 align="center">Ahmed Abd Ellatifd</h1>
+<h1 align="center">Ahmed Abd Ellatif</h1>
 <h3 align="center">Full-Stack Software Engineer | MEAN Stack Specialist</h3>
 
 <p align="center">
